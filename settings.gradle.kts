@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "MVVMDager2"
+rootProject.name = "Dagger2"
 include(":app")
